@@ -56,7 +56,8 @@
   - Custom directives
     - Used for authorizing specific fields
 - Using JWT ( jwt.io) for authentication
-- FInd the bitly link for the slides for examples of directives and wrapped resolvers
+- [GraphQL JWT Token Slides](http://slides.com/ryanchenkie/graphql-auth#/)
+- [Gitthub Source Code](https://github.com/chenkie/graphql-auth)
 
 # KLM
 - GraphQL IDE plugin ( VSCode and webstorm. possibly atom )
